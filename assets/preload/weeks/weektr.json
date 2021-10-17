@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"frustration",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"hysterics",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"folly",
+			"spirit-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"distraction",
+			"spirit-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tr",
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"storyName": "trivial round",
+	"weekName": "trivial round",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
